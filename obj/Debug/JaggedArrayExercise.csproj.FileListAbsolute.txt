@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\bin\Debug\JaggedArrayExercise.exe.config
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\bin\Debug\JaggedArrayExercise.exe
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\bin\Debug\JaggedArrayExercise.pdb
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\obj\Debug\JaggedArrayExercise.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\obj\Debug\JaggedArrayExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\obj\Debug\JaggedArrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\obj\Debug\JaggedArrayExercise.exe
+C:\Users\Lenovo\source\repos\JaggedArrayExercise\JaggedArrayExercise\obj\Debug\JaggedArrayExercise.pdb
